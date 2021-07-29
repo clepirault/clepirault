@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello todos 🤓
+<p>Je suis développeuse web junior formée à la Wild Code School de Nantes (Mars 2021 - Juillet 2021)</p>
+
+
 
 <!--
 **clepirault/clepirault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
