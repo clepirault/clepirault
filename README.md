@@ -16,12 +16,13 @@
 ### Skills ✅ :
 * Basics : **HTML, CSS, JavaScript**
 * Main : **TypeScript, React, Node**
-* Frameworks : **Next, Express, Tailwind CSS, Jest**
+* Frameworks : **Next, Express, Tailwind CSS**
 * SQL : **MySQL**
 * NoSQL : **MongoDB**
 * API : **GraphQL, AWS**
 * CMS : **Prismic**
 * Productivity : **Git, SCRUM**
+* Unit tests : **Jest**
 
 ### See my projects 🚀 :
 👉 [portfolio](https://clemence-pirault.vercel.app/portfolio)
