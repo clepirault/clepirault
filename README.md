@@ -10,7 +10,7 @@
 * Initial studies & jobs in Tourism
 * New way : Web Development
 * Autodidact @ OpenClassrooms
-* Intensive web development training @ Wild Code School (5 months - Nantes) 👉 [program](https://www.wildcodeschool.com/en-GB/courses/web-development-course-full-time/nantes)
+* Web development training @ Wild Code School (5 months - Nantes) 👉 [program](https://www.wildcodeschool.com/en-GB/courses/web-development-course-full-time/nantes)
 * Internship @ ApplyFuture (4 months - startup - Paris - Full remote) 👉 [website](https://www.applyfuture.com/fr) 👉 Stack : TS, React, Next, Node, AWS
 
 ### Skills ✅ :
@@ -19,9 +19,13 @@
 * Frameworks : Next, Express, Tailwind CSS, Jest
 * SQL : MySQL
 * NoSQL : MongoDB
-* GraphQL
+* API : GraphQL, AWS
 * CMS : Prismic
-* Git, SCRUM
+* Productivity : Git, SCRUM
 
 ### See my projects 🚀 :
 👉 [portfolio](https://clemence-pirault.vercel.app/portfolio)
+
+### Links 📌 :
+* [LinkedIn](https://www.linkedin.com/in/clemence-pirault/)
+* [Portfolio](https://clemence-pirault.vercel.app/)
