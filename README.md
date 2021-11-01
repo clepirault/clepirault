@@ -1,5 +1,5 @@
 ### Hi there ! 🤓
-<p>I'm Clémence, junior web Developer !</p>
+<p>I'm Clémence, junior web developer !</p>
 
 ### My goals 🎯 :
 * Find a CDI as a web developer
