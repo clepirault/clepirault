@@ -14,7 +14,7 @@
 * Internship @ ApplyFuture (4 months - startup - Paris - Full remote) [website](https://www.applyfuture.com/fr)
 
 ### Skills ✅ : 
-<p>HTML, CSS, JS, __TypeScript__, __React__, Next, __Node__, Express, AWS, GraphQL, MySQL, MongoDB, Tailwind, Prismic, Jest</p>
+<p>HTML, CSS, JS, **TypeScript**, **React**, Next, **Node**, Express, AWS, GraphQL, MySQL, MongoDB, Tailwind, Prismic, Jest</p>
 
 ### See my projects 🚀 :
 [portfolio](https://clemence-pirault.vercel.app/portfolio)
