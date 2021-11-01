@@ -8,7 +8,7 @@
 
 ### About me 👩 :
 * Initial studies & jobs in Tourism
-* 2020 New year & New way : Web Development
+* New way : Web Development
 * Autodidact @ OpenClassrooms
 * Wilder @ Wild Code School (5 months intensive training - Nantes) 👉 [program](https://www.wildcodeschool.com/en-GB/courses/web-development-course-full-time/nantes)
 * Web developer @ ApplyFuture (4 months internship - startup - Paris - Full remote) 👉 [website](https://www.applyfuture.com/fr) 👉 Stack : **TS, React, Next, Node, AWS**
