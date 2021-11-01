@@ -1,4 +1,20 @@
 ### Hi there ! 🤓
 <p>I'm Clémence, junior web Developer !</p>
-<p>Currently in internship @ ApplyFuture (startup - Paris - Full remote) https://www.applyfuture.com/fr , I've just finished developing an internal app for the management of all translations of the website (in TypeScript, NextJS, AWS). <p>
-<p>Stack : JavaScript, TypeScript, ReactJS (NextJS), NodeJS, MySQL, GraphQL, MongoDB, headless CMS (Prismic)<p>
+
+### My goals 🎯 :
+* Find a CDI as a web developer
+* Working on personal projects
+* Developing new skills
+
+### About me 👩 :
+* Initial studies & jobs in Tourism
+* New way : web Development
+* Autodidact @ OpenClassrooms
+* Intensive web development training @ Wild Code School (5 months - Nantes) [program](https://www.wildcodeschool.com/en-GB/courses/web-development-course-full-time/nantes)
+* Internship @ ApplyFuture (4 months - startup - Paris - Full remote) [website](https://www.applyfuture.com/fr)
+
+### Skills ✅ : 
+<p>HTML, CSS, JS, __TypeScript__, __React__, Next, __Node__, Express, AWS, GraphQL, MySQL, MongoDB, Tailwind, Prismic, Jest</p>
+
+### See my projects 🚀 :
+[portfolio](https://clemence-pirault.vercel.app/portfolio)
