@@ -26,6 +26,6 @@
 ### See my projects 🚀 :
 👉 [portfolio](https://clemence-pirault.vercel.app/portfolio)
 
-### Links 📌 :
+### Links 🔗 :
 * [LinkedIn](https://www.linkedin.com/in/clemence-pirault/)
 * [Portfolio](https://clemence-pirault.vercel.app/)
