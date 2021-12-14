@@ -2,9 +2,8 @@
 <p>I'm Clémence, junior web developer !</p>
 
 ### My goals 🎯 :
-* Find a CDI as a web developer
-* Working on personal projects
 * Developing new skills
+* Working on personal projects
 
 ### About me 👩 :
 * Initial studies & jobs in Tourism
@@ -12,11 +11,12 @@
 * Autodidact @ OpenClassrooms
 * Wilder @ Wild Code School (5 months intensive training - Nantes) 👉 [program](https://www.wildcodeschool.com/en-GB/courses/web-development-course-full-time/nantes)
 * Web developer @ ApplyFuture (4 months internship - startup - Full remote) 👉 [website](https://www.applyfuture.com/fr) 👉 Stack : **TS, React, Next, Node, AWS**
+* Full stack developer @ Obole, Nantes 👉 Stack : **TS, React, Ionic, Next, Node, GraphQL**
 
 ### Skills ✅ :
 * Basics : **HTML, CSS, JavaScript**
 * Main : **TypeScript, React, Node**
-* Frameworks : **Next, Express, Tailwind CSS**
+* Frameworks : **Next, Ionic, Express, Tailwind CSS**
 * SQL : **MySQL**
 * NoSQL : **MongoDB**
 * API : **GraphQL, AWS**
