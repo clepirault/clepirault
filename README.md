@@ -1,26 +1,22 @@
 ### Hi there ! 🤓
-<p>I'm Clémence, junior web developer !</p>
+<p>I'm Clémence, web developer !</p>
 
 ### Developer 👩‍💻 :
 
-* Full stack developer @ Obole (CDI - startup - Nantes) 👉 Stack : **TS, React, Ionic, Next, Node, GraphQL**
-* Web developer @ ApplyFuture (4 months internship - startup - Full remote) 👉 [website](https://www.applyfuture.com/fr) 👉 Stack : **TS, React, Next, Node, AWS**
+* Full stack developer @ Obole (CDI - startup - 📍 Nantes) 👉 Stack : **Typescript, React, Next.js, Node.js, PostgreSQL, GraphQL**
 
 ### About me 👩 :
 * Initial studies & jobs in Tourism
-* New way : Web Development
-* Autodidact @ OpenClassrooms
-* Wilder @ Wild Code School (5 months intensive training - Nantes) 👉 [program](https://www.wildcodeschool.com/en-GB/courses/web-development-course-full-time/nantes)
+* New way : Web Development since 2021
+* Wilder @ Wild Code School (5 months intensive training - 📍 Nantes - from March to July 2021)
 
 ### Skills ✅ :
 * Basics : **HTML, CSS, JavaScript**
-* Main : **TypeScript, React, Node**
-* Frameworks : **Next, Express, Tailwind CSS**
+* Main : **TypeScript, React.js, Node.js**
+* Frameworks : **Next.js, Express, Tailwind CSS**
 * Mobile : **Ionic**
-* SQL : **MySQL**
-* NoSQL : **MongoDB**
-* API : **GraphQL, AWS**
-* CMS : **Prismic**
+* Databases / API : **PostgreSQL, GraphQL, PostGraphile**
+* CMS : **Strapi, Prismic**
 * Productivity : **Git, GitHub, SCRUM**
 * Unit tests : **Jest**
 
