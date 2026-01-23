@@ -1,28 +1,18 @@
-### Hi there ! 🤓
-<p>I'm Clémence, web developer !</p>
+### Bonjour je suis Clémence ! 👋
 
-### Developer 👩‍💻 :
+### Développeuse JS React / Node 👩‍💻 :
+* Développeuse Full Stack @ The Project Company (ex Grinn.tech) 📍 Nantes 💻 Projets : **API, Applications web & mobile**
 
-* Full stack developer @ Obole (CDI - startup - 📍 Nantes) 👉 Stack : **Typescript, React, Next.js, Node.js, PostgreSQL, GraphQL**
+### Stack ✅ :
+* Technos : **Typescript, React (Next.js), React Native, Node.js, PostgreSQL, Postgraphile, GraphQL, Tailwind**
+* Gestion de projet / collaboration / design : **Github, Jira, Trello, Figma**
+* Intégrations : **Algolia, Stripe, Google Maps, Brevo**
+* Déploiement / distribution : **Vercel, Clever Cloud, Expo, Google Play Console, App Store Connect**
 
-### About me 👩 :
-* Initial studies & jobs in Tourism
-* New way : Web Development since 2021
-* Wilder @ Wild Code School (5 months intensive training - 📍 Nantes - from March to July 2021)
+### À propos 👩 :
+* Études initiales et première carrière dans le Tourisme
+* Reconversion pro Développeuse Web en 2021 (@ Wild Code School)
 
-### Skills ✅ :
-* Basics : **HTML, CSS, JavaScript**
-* Main : **TypeScript, React.js, Node.js**
-* Frameworks : **Next.js, Express, Tailwind CSS**
-* Mobile : **Ionic**
-* Databases / API : **PostgreSQL, GraphQL, PostGraphile**
-* CMS : **Strapi, Prismic**
-* Productivity : **Git, GitHub, SCRUM**
-* Unit tests : **Jest**
-
-### See my projects 🚀 :
-👉 [portfolio](https://clemence-pirault.vercel.app/portfolio)
-
-### Links 🔗 :
+### Liens 🔗 :
 * [LinkedIn](https://www.linkedin.com/in/clemence-pirault/)
 * [Portfolio](https://clemence-pirault.vercel.app/)
